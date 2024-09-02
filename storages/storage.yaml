@@ -1,0 +1,10 @@
+id: QmQ6wg9TW9LRQ9d32Rg5jv8GNpbxJUuCdkXwLwFomdvzw6
+description: ""
+tags: []
+match: signal
+useRegex: false
+access:
+    network: host
+object:
+    versioning: false
+    size: 500MB

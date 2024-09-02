@@ -1,0 +1,15 @@
+id: QmUuL9e4hxJMqfgXdbnLSvkDUwN3dsoadwLEPyt1W29uhP
+description: ""
+tags: []
+match: data
+useRegex: false
+encryption:
+    type: AES512
+    key: signal
+access:
+    network: all
+replicas:
+    min: 0
+    max: 500
+storage:
+    size: 100MB

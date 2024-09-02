@@ -1,0 +1,12 @@
+id: QmSTtYWKc9VfkaKo8TtpuyDwmh5u2cdbdyxwEGxLV33zvX
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /app
+    branch: main
+    github:
+        id: 818676995
+        fullname: abdelhak-elhadidy/movies-scrapper-client
